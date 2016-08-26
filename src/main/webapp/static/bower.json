@@ -1,0 +1,22 @@
+{
+  "name": "BookingSpringMvc",
+  "authors": [
+    "胡江涛 <jt_hu@Ctrip.com>"
+  ],
+  "description": "搞一哈",
+  "main": "",
+  "keywords": [
+    "Tour",
+    "Booking"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
